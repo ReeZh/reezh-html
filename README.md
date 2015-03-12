@@ -1,2 +1,2 @@
 # reezh-html
-ReeZh Design HTML
+ReeZh Design HTML Starter
